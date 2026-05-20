@@ -2,13 +2,13 @@
 
 This repository contains the benchmark instances and computational results associated with the paper:
 
-Ricard, L., Desaulniers, G., Lodi, A. & Rousseau, L.-M. (2026). Chance-constrained battery management for electric bus scheduling, *European Journal of Operational Research* [under review].
+Ricard, L., Desaulniers, G., Lodi, A. & Rousseau, L.-M. (2026). Chance-constrained battery management for electric bus scheduling, *European Journal of Operational Research*.
 
 ---
 
 ## Problem description
 
-The instances model an **Electric Vehicle Scheduling Problem (E-VSP)**. Energy consumption per trip is **stochastic**, modelled as a discrete probability distribution. The objective is to find a minimum-cost assignment of vehicles to trips while satisfying operational and battery constraints under uncertainty.
+We consider an **Electric Vehicle Scheduling Problem (E-VSP)**. Energy consumption per trip is **stochastic**, modelled as a discrete probability distribution. The objective is to find a minimum-cost assignment of vehicles to trips while satisfying operational and battery constraints under uncertainty.
 
 ---
 
@@ -21,7 +21,7 @@ The instances model an **Electric Vehicle Scheduling Problem (E-VSP)**. Energy c
 │   │   ├── variations.csv       # Time-of-day variation periods
 │   │   └── travel_data.csv      # Deadhead travel times and energy consumption
 │   ├── I1/
-│   │   ├── locations.csv        # Network locations (4 nodes)
+│   │   ├── locations.csv        # Network locations
 │   │   └── trips_{1..5}.csv     # 5 simulated service trip sets
 │   ├── I2/
 │   │   ├── locations.csv
@@ -109,7 +109,7 @@ The energy consumption of trip *i* is a discrete random variable on `{energy_min
 
 ### `results/all_results.csv`
 
-Computational results for all instances × model types × parameter configurations.
+Computational results for all instances × parameter configurations.
 
 | Column | Description |
 |---|---|
