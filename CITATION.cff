@@ -13,4 +13,4 @@ authors:
   given-names: "Louis-Martin"
 title: "Benchmark Instances: E-VSP with Policy-Guided Battery Management"
 date-released: 2026-06-20
-url: "https://github.com/YOUR-ORG/evsp-benchmark"
+url: "https://github.com/learicard/evsp-policy-battery.git"
