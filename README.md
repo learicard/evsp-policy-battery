@@ -2,7 +2,7 @@
 
 This repository contains the benchmark instances and computational results associated with the paper:
 
-Ricard, L., Desaulniers, G., Lodi, A. & Rousseau, L.-M. (2026). Chance-constrained battery management for electric bus scheduling, *European Journal of Operational Research*.
+Ricard, L., Desaulniers, G., Lodi, A. & Rousseau, L.-M. (2026). Chance-constrained battery management for electric bus scheduling, *European Journal of Operational Research* [under review].
 
 ---
 
