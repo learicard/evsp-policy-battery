@@ -1,0 +1,5 @@
+location_id,type,depot_capacity,charging_capacity
+A035,terminal,,
+M27204,terminal,,
+62,depot,1000,
+H21,charging_station,,1

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+- family-names: "Ricard"
+  given-names: "Léa Massé"
+  orcid: "https://orcid.org/0000-0002-2061-1170"
+- family-names: "Desaulniers"
+  given-names: "Guy"
+- family-names: "Lodi"
+  given-names: "Andrea"
+- family-names: "Rousseau"
+  given-names: "Louis-Martin"
+title: "Benchmark Instances: E-VSP with Policy-Guided Battery Management"
+date-released: 2026-06-20
+url: "https://github.com/YOUR-ORG/evsp-benchmark"
